@@ -7,7 +7,7 @@ pipeline {
                 script {
                     // Clone the Git repository
                     sh 'rm -rf PES1UG21CS051_Jenkins'
-                    sh 'git clone https://github.com/Agnel/PES1UG21CS051_Jenkins.git'
+                    sh 'git clone https://github.com/agnel0108/PES1UG21CS051_Jenkins'
                 }
             }
         }
